@@ -12,3 +12,4 @@ In  this project I will create sensor whitch will transmit its state (on/off) vi
 * (https://wireless.murata.com/media/products/apnotes/tr_swg05.pdf?ref=rfm.com)[ASH Transceiver Software Designer's Guide of 2002.08.07]
 * (http://web.engr.oregonstate.edu/~moon/research/files/cas2_mar_07_dpll.pdf) [Future reading]
 * (https://www.airspayce.com/mikem/arduino/RadioHead/classRH__ASK.html#ad8fe587d5651b972ffe1b35b701305b8)[RadioHead ASK Documantation]
+* (http://forum.elektor.com/download/file.php?id=2428034&sid=e5435be69d352a5ba6e669d3b676cd25) -- Antena for 433 tutor
