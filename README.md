@@ -15,3 +15,4 @@ In  this project I will create sensor whitch will transmit its state (on/off) vi
 * (http://forum.elektor.com/download/file.php?id=2428034&sid=e5435be69d352a5ba6e669d3b676cd25) -- Antena for 433 tutor
 * (https://github.com/sui77/rc-switch/wiki/HowTo_OperateLowCostOutlets) - RC switch library explained
 * (https://github.com/xoseperez/espurna/issues/271) - some explanation on whitch bites of rf code is actual data
+* (http://tinkerman.cat/decoding-433mhz-rf-data-from-wireless-switches/)
