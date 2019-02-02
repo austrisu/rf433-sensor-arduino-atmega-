@@ -2,6 +2,28 @@
 
 In  this project I will create sensor whitch will transmit its state (on/off) via rf433
 
+# RF protocol
+
+RF comunication protocol is explained here (https://www.itead.cc/wiki/images/5/5e/RF_Universal_Transeceive_Module_Serial_Protocol_v1.0.pdf)
+
+This is sent from Arduino using RCSwitch library		
+		
+mySwitch.send("000000000001010100010001");		
+		
+These are couple of codes recieved with SonofRF, thay sligthly changes		
+		
+2A7601860406001511		
+2A7601860406001511		
+2A7601860406001511		
+2A6C01860406001511		
+2A6C018603FC001511		
+		
+This codes are in HEX and first 13 digits are not that consotant but important part is last 6 digits and by that RF devices designete each other. The final 3 bytes are the code itself and it should be unique for every button in the same remote.		
+		
+00000000   00010101   00010001		These are sent data from arduino
+		
+  00         15          11		    And this is how it decodes in SonofRF
+
 
 # References
 
