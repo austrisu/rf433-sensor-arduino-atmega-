@@ -20,3 +20,4 @@ In  this project I will create sensor whitch will transmit its state (on/off) vi
 * (http://www.ti.com/lit/ml/slap127/slap127.pdf) - RF comnication phisics and diferetn types
 * (http://tech.jolowe.se/home-automation-rf-protocols/) - small post about RF protocols
 * (https://1technophile.blogspot.com/2017/11/sonoff-rf-bridge-with-custom-firmware.html) -  Some explanation why first bits is diferent and that only last 3 bites are value sent
+* (https://github.com/1technophile/OpenMQTTGateway/wiki/Sonoff-RFB) - something how to extract necesary sent values from whole key
