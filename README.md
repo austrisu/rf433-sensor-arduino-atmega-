@@ -17,3 +17,4 @@ In  this project I will create sensor whitch will transmit its state (on/off) vi
 * (https://github.com/xoseperez/espurna/issues/271) - some explanation on whitch bites of rf code is actual data
 * (http://tinkerman.cat/decoding-433mhz-rf-data-from-wireless-switches/)
 * (https://www.steute.de/fileadmin/Downloads/wireless/Kataloge/Wireless_book.pdf) - evolution and explanation of WIFI
+* (http://www.ti.com/lit/ml/slap127/slap127.pdf) - RF comnication phisics and diferetn types
