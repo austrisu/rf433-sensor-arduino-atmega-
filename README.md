@@ -24,6 +24,13 @@ This codes are in HEX and first 13 digits are not that consotant but important p
 		
   00         15          11		    And this is how it decodes in SonofRF
 
+first 6 bytes is these
+
+2A  76  01  86  04  06
+
+As per before mentioned documentation each two bites respresents Tsyn Tlow Thigh. I cant understand why they change with each transmition.
+
+
 
 # References
 
