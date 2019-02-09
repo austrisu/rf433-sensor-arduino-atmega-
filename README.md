@@ -50,3 +50,6 @@ As per before mentioned documentation each two bites respresents Tsyn Tlow Thigh
 * (http://tech.jolowe.se/home-automation-rf-protocols/) - small post about RF protocols
 * (https://1technophile.blogspot.com/2017/11/sonoff-rf-bridge-with-custom-firmware.html) -  Some explanation why first bits is diferent and that only last 3 bites are value sent
 * (https://github.com/1technophile/OpenMQTTGateway/wiki/Sonoff-RFB) - something how to extract necesary sent values from whole key
+
+
+* https://coderwall.com/p/duapqq/use-a-google-spreadsheet-as-your-json-backend
