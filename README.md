@@ -68,11 +68,11 @@ As per [this](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard) link bootl
 
 2. Flash arduino with Arduino as ISP File > Examples>ArduinoISP. With this oneuse standart board Arduino Uno
 
-![](images/arduino-example-ISP.png)
+![](images/arduino example ISP.png)
 
 3. When flashed chose new board showing in Tools > Board> "ATmega328 on a breadboard (8 MHz internal clock)"
 
-![](images/arduino-chose-board.png)
+![](images/arduino chose board.png)
 
 4. Hook up Atmege to flash new minimal setup bootloader like this:
 
