@@ -97,7 +97,7 @@ Microcontrollers are usually programmed through a programmer unless you have a p
 When bootloader is in microcontroler, it can be programmed connecting by UART interface (pins 2 and 3)
 
 Using arduino to program Atmega on breadboard, Atmega need to be removed from Arduino board and hook up arduino board to breadboard like this:
-![]()
+![](images/ArduinoUSBSerialSimple.png)
 
 Now keeping "ATmega328 on a breadboard (8 MHz internal clock)" configuration microcontroler can be flashed.
 
