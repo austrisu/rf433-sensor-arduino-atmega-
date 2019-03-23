@@ -37,7 +37,7 @@ As per before mentioned documentation each two bites respresents Tsyn Tlow Thigh
 
 ## Flashing Atmega328P
 
-![](C:\Users\zirnis\Desktop\atmega.PNG)
+![](images/atmega.PNG)
 
 Flashing Atmega when it is on Arduno boar is easy, just plug it in PC and flash it using arduinoIDE or Arduino online IDE.
 
@@ -67,18 +67,18 @@ As per [this](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard) link bootl
     File > Preferences > Setings > Sketchbook location
 
 2. Flash arduino with Arduino as ISP File > Examples>ArduinoISP. With this oneuse standart board Arduino Uno
-    ![](images\arduino example ISP.png)
+    ![](images/arduino example ISP.png)
 
 3. When flashed chose new board showing in Tools > Board> "ATmega328 on a breadboard (8 MHz internal clock)"
 
-   ![](images\arduino chose board.png)
+   ![](images/arduino chose board.png)
 
 4. Hook up Atmege to flash new minimal setup bootloader like this:
-    ![](images\SimpleBreadboardAVR.png)
+    ![](images/SimpleBreadboardAVR.png)
 5. Chose programmer how bootloader will be flashed Tools > Programmer > Arduino as ISP
-![](images\bootloader-board.png)
+![](images/bootloader-board.png)
 6. Flash bootloader to Atmega on breadbord
-![](images\bootloader-flash.png)
+![](images/bootloader-flash.png)
 
 After doing these steps bootloader for minimal setup is installed and now microcontroler can be installed using arduino UART serial programming
 
